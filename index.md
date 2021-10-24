@@ -13,6 +13,8 @@ iOS Dev Manager and Mobile Engineering Lead. Living in Burlington, working in To
 - The Simpsons Seasons 3-7 (but really more like 4-6)
 - [George Tooker Art](https://www.wikiart.org/en/george-tooker)
 - [Scott Pilgrim](https://scottpilgrim.fandom.com/wiki/Scott_Pilgrim)
+- [Detour Coffee Roasters](https://detourcoffee.com/)
+- Canadian Political Panels with Chantal Hébert, Martin Regg Cohn, Althia Raj, Andrew Coyne, Supriya Dwivedi, Melissa Lantsman, Ginny Roth, Jenny Bryrne or Scott Reid
 - [Hacker News](https://news.ycombinator.com)
 
 ## Podcasts I like
@@ -22,9 +24,10 @@ iOS Dev Manager and Mobile Engineering Lead. Living in Burlington, working in To
 - [Accidental Tech Podcast](https://atp.fm)
 - [The Herle Burly](https://www.theherleburly.com/)
 - [The Bruenigs](https://podcasts.apple.com/ca/podcast/the-bruenigs/id1393726435)
-- [Slate Culture Gabfest](https://slate.com/podcasts/culture-gabfest) (a bunch of Slate stuff really)
+- [Slate Culture Gabfest](https://slate.com/podcasts/culture-gabfest) (a bunch of Slate shows really)
 - [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast)
 - [Do By Friday](https://dobyfriday.com/)
+- The Argument back when it had Ross Douthat and Michelle Goldberg
 
 ## Software I like
 - [1Password](https://agilebits.com)
