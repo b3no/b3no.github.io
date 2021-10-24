@@ -14,7 +14,7 @@ iOS Dev Manager and Mobile Engineering Lead. Living in Burlington, working in To
 - [George Tooker Art](https://www.wikiart.org/en/george-tooker)
 - [Scott Pilgrim](https://scottpilgrim.fandom.com/wiki/Scott_Pilgrim)
 - [Detour Coffee Roasters](https://detourcoffee.com/)
-- Canadian Political Panels with Chantal Hébert, Martin Regg Cohn, Althia Raj, Andrew Coyne, Supriya Dwivedi, Melissa Lantsman, Ginny Roth, Jenny Bryrne or Scott Reid
+- Canadian Political Panels with Chantal Hébert, Martin Regg Cohn, Althia Raj, Andrew Coyne, Supriya Dwivedi, Melissa Lantsman, Ginny Roth, Jenny Byrne or Scott Reid
 - [Hacker News](https://news.ycombinator.com)
 
 ## Podcasts I like
