@@ -11,8 +11,8 @@ iOS Dev Manager and Mobile Engineering Lead. Living in Burlington, working in To
 - [Star Trek: The Next Generation In 40 Hours](https://medium.com/maxistentialism-blog/star-trek-the-next-generation-in-40-hours-c4a6762cbd3)
 - [Thriftbooks](https://www.thriftbooks.com/)
 - The Simpsons Seasons 3-7 (but really more like 4-6)
-- [George Tooker Artwork](https://www.wikiart.org/en/george-tooker)
-- Scott Pilgrim
+- [George Tooker Art](https://www.wikiart.org/en/george-tooker)
+- [Scott Pilgrim](https://scottpilgrim.fandom.com/wiki/Scott_Pilgrim)
 - [Hacker News](https://news.ycombinator.com)
 
 ## Podcasts I like
