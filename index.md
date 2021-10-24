@@ -28,6 +28,9 @@ iOS Dev Manager and Mobile Engineering Lead. Living in Burlington, working in To
 ## Software I like
 - [1Password](https://agilebits.com)
 - [Tapbots Apps (Tweetbot, Pastebot, etc)](https://tapbots.com/)
+- [Proxyman](https://proxyman.io/)
+- [Sublime Text](https://www.sublimetext.com/)
+- [Fork](https://git-fork.com/)
 - [Plex](https://plex.tv)
 - [Bear](https://bear.app)
 - [Read Email Later on Kobo](https://www.reademaillater.com/)
