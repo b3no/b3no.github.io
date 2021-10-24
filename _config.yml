@@ -1,6 +1,6 @@
 name: Chris Benoit
 title: null
-theme: jekyll-theme-slate
+theme: jekyll-theme-tactile
 
 gems:
   - jekyll-mentions
