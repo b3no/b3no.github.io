@@ -25,9 +25,10 @@ iOS Dev Manager and Mobile Engineering Lead. Living in Burlington, working in To
 - [The Herle Burly](https://www.theherleburly.com/)
 - [The Bruenigs](https://podcasts.apple.com/ca/podcast/the-bruenigs/id1393726435)
 - [Slate Culture Gabfest](https://slate.com/podcasts/culture-gabfest) (a bunch of Slate shows really)
-- [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast)
-- [Do By Friday](https://dobyfriday.com/)
+- [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast) (it was better before he went to NYT)
+- [Do By Friday](https://dobyfriday.com/) (funnier with Max but I know that's a whole thing)
 - The Argument back when it had Ross Douthat and Michelle Goldberg
+- The Weeds before everyone left
 
 ## Software I like
 - [1Password](https://agilebits.com)
