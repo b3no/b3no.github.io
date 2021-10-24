@@ -14,10 +14,12 @@ iOS Dev Manager and Mobile Engineering Lead. Living in Burlington, working in To
 - [George Tooker Art](https://www.wikiart.org/en/george-tooker)
 - [Scott Pilgrim](https://scottpilgrim.fandom.com/wiki/Scott_Pilgrim)
 - [Stratechery](https://stratechery.com/)
+- [ContraPoints](https://www.youtube.com/user/contrapoints)
 - [JPL Visions of the Future](https://www.jpl.nasa.gov/galleries/visions-of-the-future)
 - [Detour Coffee Roasters](https://detourcoffee.com/pages/contact-us)
 - Canadian Political Panels with Chantal Hébert, Martin Regg Cohn, Althia Raj, Andrew Coyne, Supriya Dwivedi, Melissa Lantsman, Ginny Roth, Jenny Byrne or Scott Reid
 - [Hacker News](https://news.ycombinator.com)
+- [Lo-Fi / Chillwave / I'm embarassed to be typing these words](https://music.youtube.com/playlist?list=PLShRJFABXtgMX14Y9DkI1h_XD8kjOjvyu&feature=share) (my ongoing playlist)
 
 ## Podcasts I like
 - [Conversations with Tyler](https://conversationswithtyler.com/)
