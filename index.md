@@ -6,7 +6,7 @@ iOS Dev Manager and Mobile Engineering Lead. Living in Burlington, working in To
 
 ## Stuff I like
 
-- [Slow Boring](https://www.slowboring.com/) and most stuff by Matt Yglesias
+- [Slow Boring](https://www.slowboring.com/) (and most stuff by Matt Yglesias)
 - [Who are Nerds](https://popula.com/2019/04/04/what-are-nerds/)
 - [Star Trek: The Next Generation In 40 Hours](https://medium.com/maxistentialism-blog/star-trek-the-next-generation-in-40-hours-c4a6762cbd3)
 - [Thriftbooks](https://www.thriftbooks.com/)
