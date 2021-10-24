@@ -24,7 +24,7 @@ iOS Dev Manager and Mobile Engineering Lead. Living in Burlington, working in To
 - [Accidental Tech Podcast](https://atp.fm)
 - [The Herle Burly](https://www.theherleburly.com/)
 - [The Bruenigs](https://podcasts.apple.com/ca/podcast/the-bruenigs/id1393726435)
-- [Slate Culture Gabfest](https://slate.com/podcasts/culture-gabfest) (a bunch of Slate shows really)
+- [Slate Culture Gabfest](https://slate.com/podcasts/culture-gabfest) (a bunch of Slate shows really, but mainly the old ones that are ongoing, not the new ones)
 - [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast) (it was better before he went to NYT)
 - [Do By Friday](https://dobyfriday.com/) (funnier with Max but I know that's a whole thing)
 - The Argument back when it had Ross Douthat and Michelle Goldberg
