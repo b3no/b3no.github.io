@@ -15,7 +15,7 @@ iOS Dev Manager and Mobile Engineering Lead. Living in Burlington, working in To
 - [Scott Pilgrim](https://scottpilgrim.fandom.com/wiki/Scott_Pilgrim)
 - [Stratechery](https://stratechery.com/)
 - [JPL Visions of the Future](https://www.jpl.nasa.gov/galleries/visions-of-the-future)
-- [Detour Coffee Roasters](https://detourcoffee.com/)
+- [Detour Coffee Roasters](https://detourcoffee.com/pages/contact-us)
 - Canadian Political Panels with Chantal Hébert, Martin Regg Cohn, Althia Raj, Andrew Coyne, Supriya Dwivedi, Melissa Lantsman, Ginny Roth, Jenny Byrne or Scott Reid
 - [Hacker News](https://news.ycombinator.com)
 
