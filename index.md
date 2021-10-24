@@ -22,7 +22,7 @@ iOS Dev Manager and Mobile Engineering Lead. Living in Burlington, working in To
 - [Accidental Tech Podcast](https://atp.fm)
 - [The Herle Burly](https://www.theherleburly.com/)
 - [The Bruenigs](https://podcasts.apple.com/ca/podcast/the-bruenigs/id1393726435)
-- [Slate Culture Gabfest (a bunch of Slate stuff really)](https://slate.com/podcasts/culture-gabfest)
+- [Slate Culture Gabfest](https://slate.com/podcasts/culture-gabfest) (a bunch of Slate stuff really)
 - [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast)
 - [Do By Friday](https://dobyfriday.com/)
 
