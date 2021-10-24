@@ -2,7 +2,7 @@
 
 iOS Dev Manager and Mobile Engineering Lead. Living in Burlington, working in Toronto at RBC, previously at Autodesk and Logitech, full details are on [LinkedIn](www.linkedin.com/in/chris-benoit-hello). I like to use [Twitter](https://twitter.com/b3no) but mainly I just retweet stuff I find funny. See what I'm reading on [Goodreads](http://www.goodreads.com/user/show/12451623-chris-benoit), see what I'm watching on [Letterboxd](http://letterboxd.com/b3no/). Contact me at [benoitc@gmail.com](benoitc@gmail.com).
 
-## Stuff I like (that's not Podcasts or Software)
+## Stuff I like (podcasts and software get separate sections below)
 
 - [Slow Boring](https://www.slowboring.com/) and most stuff by Matt Yglesias
 - [Who are Nerds](https://popula.com/2019/04/04/what-are-nerds/)
