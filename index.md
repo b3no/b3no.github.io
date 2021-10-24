@@ -14,16 +14,15 @@ iOS Dev Manager and Mobile Engineering Lead. Living in Burlington, working in To
 - [Hacker News](https://news.ycombinator.com)
 
 ## Podcasts I like
-- Conversations with Tyler
-- Dithering
-- Roderick on the Line
-- Accidental Tech Podcast
-- The Herle Burly
-- The Bruenigs
-- Slate Culture Gabfest (a bunch of Slate stuff really)
-- The Ezra Klein Show
-- Do By Friday
-- TVO ONPoli
+- [Conversations with Tyler](https://conversationswithtyler.com/)
+- [Dithering](https://stratechery.com/2020/dithering-and-the-open-web/)
+- [Roderick on the Line](http://www.merlinmann.com/roderick/)
+- [Accidental Tech Podcast](https://atp.fm)
+- [The Herle Burly](https://www.theherleburly.com/)
+- [The Bruenigs](https://podcasts.apple.com/ca/podcast/the-bruenigs/id1393726435)
+- [Slate Culture Gabfest (a bunch of Slate stuff really)](https://slate.com/podcasts/culture-gabfest)
+- [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast)
+- [Do By Friday](https://dobyfriday.com/)
 
 ## Software I like
 - [1Password](https://agilebits.com)
