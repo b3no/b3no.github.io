@@ -18,9 +18,9 @@ iOS Dev Manager and Mobile Engineering Lead. Living in Burlington, working in To
 - [JPL Visions of the Future](https://www.jpl.nasa.gov/galleries/visions-of-the-future)
 - [Detour Coffee Roasters](https://detourcoffee.com/pages/contact-us)
 - [Hacker News](https://news.ycombinator.com)
-- [The Logic](https://thelogic.co/)
 - [Lo-Fi / Chillwave / I'm embarassed to be typing these words](https://music.youtube.com/playlist?list=PLShRJFABXtgMX14Y9DkI1h_XD8kjOjvyu&feature=share) (my ongoing playlist)
 - [Bill Wurtz Videos](https://www.youtube.com/@billwurtz/videos)
+- [The Logic](https://thelogic.co/)
 - [JJ McCullough Videos](https://www.youtube.com/@JJMcCullough)
 - [RM Transit Videos](https://www.youtube.com/@RMTransit)
 - Canadian NHL Teams that go deep into the playoffs
@@ -36,12 +36,14 @@ iOS Dev Manager and Mobile Engineering Lead. Living in Burlington, working in To
 - [The Herle Burly](https://www.theherleburly.com/)
 - [The Bruenigs](https://podcasts.apple.com/ca/podcast/the-bruenigs/id1393726435)
 - [Slate Culture Gabfest](https://slate.com/podcasts/culture-gabfest) (a bunch of Slate shows really, but mainly the old ones that are ongoing, not the new ones)
-- [Know Your Enemy](https://en.wikipedia.org/wiki/Know_Your_Enemy_(podcast))
-- [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast) (it was better before he went to NYT)
-- [Do By Friday](https://dobyfriday.com/) (funnier with Max but I know that's a whole thing)
+- [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast)
+- [Do By Friday](https://dobyfriday.com/)
 - The Argument back when it had Ross Douthat and Michelle Goldberg
 - The Weeds before everyone left
+- [Know Your Enemy](https://en.wikipedia.org/wiki/Know_Your_Enemy_(podcast))
 - [Sharp Tech Podcast](https://sharptech.fm/)
+- [ONPoli](https://www.tvo.org/podcasts/onpoli-a-tvo-podcast)
+- [The Hub](http://thehub.ca)
 
 ## Software I like
 - [1Password](https://agilebits.com)
